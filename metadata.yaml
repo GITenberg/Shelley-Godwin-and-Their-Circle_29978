@@ -1,0 +1,31 @@
+_repo: Shelley-Godwin-and-Their-Circle_29978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brailsford, Henry Noel
+    alias: Brailsford, H. N. (Henry Noel)
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '34287'
+    url: http://www.gutenberg.org/2009/agents/34287
+description: ''
+gutenberg_issued: '2009-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 77
+subjects:
+- !lcsh 'Great Britain -- Intellectual life -- 19th century'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Friends and associates'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Godwin, William, 1756-1836 -- Friends and associates'
+title: Shelley, Godwin and Their Circle
+url: http://www.gutenberg.org/ebooks/29978
